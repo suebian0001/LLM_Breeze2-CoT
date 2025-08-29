@@ -56,13 +56,13 @@ LLM\_Breeze2-CoT/
 
 ---
 
-## ⚙️ 環境需求
+##  環境需求
 
 * Python 3.10 以上
 * 支援 CUDA 的 NVIDIA GPU（建議 11GB VRAM 以上）
 * 主要套件：請參考 `requirements.txt`
 
-### 📦 安裝環境
+###  安裝環境
 
 建議使用虛擬環境，並安裝所有相依套件：
 
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 -----
 
-## 🚀 執行步驟
+##  執行步驟
 
 ### 1\. 資料集準備
 
